@@ -17,5 +17,14 @@
   "bugs": {
     "url": "https://github.com/bltarkany/Movoggle2.0/issues"
   },
-  "homepage": "https://github.com/bltarkany/Movoggle2.0#readme"
+  "homepage": "https://github.com/bltarkany/Movoggle2.0#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "express-handlebars": "^5.2.0",
+    "express-session": "^1.17.1",
+    "morgan": "^1.10.0",
+    "nodemon": "^2.0.7",
+    "passport": "^0.4.1",
+    "passport-local": "^1.0.0"
+  }
 }
