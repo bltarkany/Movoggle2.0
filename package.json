@@ -1,0 +1,21 @@
+{
+  "name": "Movoggle2.0",
+  "version": "1.0.0",
+  "description": "For movies, food, and mingling. Create an evening in.",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bltarkany/Movoggle2.0.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bltarkany/Movoggle2.0/issues"
+  },
+  "homepage": "https://github.com/bltarkany/Movoggle2.0#readme"
+}
